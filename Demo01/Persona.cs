@@ -15,7 +15,7 @@ namespace Demo01
         //    Apellidos = Apellidos;
         //}
 
-        public String Nombres { get; set; }
+        public String Nombres { get; set; } 
         public String Apellidos { get; set; }
 
         public String NombresCompletos { get; set; }

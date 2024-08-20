@@ -8,6 +8,7 @@ namespace Demo01
 {
     internal class Rectangulo
     {
+
         public int Base { get; set; }
         public int Altura { get; set; }
 

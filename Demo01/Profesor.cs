@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Demo01
 {
-    internal class Profesor
+    internal class Profesor : Persona
     {
         public int Sueldo { get; set; }
     }
